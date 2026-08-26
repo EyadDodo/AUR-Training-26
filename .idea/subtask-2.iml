@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.system.id="pyproject.toml" type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/task_2/subtask_2">
+      <sourceFolder url="file://$MODULE_DIR$/task_2/subtask_2/src" />
+      <excludeFolder url="file://$MODULE_DIR$/task_2/subtask_2/.venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="~\PycharmProjects\AUR-Training-26\task_2\subtask_2\.venv" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
