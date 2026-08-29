@@ -1,0 +1,3 @@
+Book|Dune|Frank Herbert|0312932082|AVAILABLE
+DVD|Inception|Christopher Nolan|CHECKED_OUT
+Magazine|National Geographic|Issue 204|AVAILABLE
